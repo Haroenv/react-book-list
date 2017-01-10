@@ -7,6 +7,10 @@
   padding: 0 10px;
 }
 
+.list-group-item:hover {
+  cursor: pointer;
+}
+
 .book-list, .book-detail {
   margin: 20px 0;
 }
