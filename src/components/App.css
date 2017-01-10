@@ -1,0 +1,12 @@
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.list-group {
+  padding: 0 10px;
+}
+
+.book-list, .book-detail {
+  margin: 20px 0;
+}
